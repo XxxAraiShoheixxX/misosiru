@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    background-color: greenyellow;
+}
+
+header{
+    position:relative;
+    padding-left: 
+}
+nav{
+   position: absolute;
+    top: 0;
+    right:100px;
+}
+
+
+.li{
+    color:red;
+   
+    font-weight:bold;
+    font-size:  20px;
+}
+
+li{
+        float: right;
+     list-style-type: none;
+    display:flex;
+    color:red;
+  
+    text-align:center; 
+     padding-right: 50px;
+}
+
+.tesutos {
+    padding-left: 50px;
+    text-align: left;
+}
+
+img {
+   width: 500px; 
+}
+
+
+.box-set{
+    
+}
+
+.a1{
+ float: left;   
+}
+
+.a2{
+    
+    
+}
+
+
+
+
+footer{
+    padding: 50px;
+    clear: both;
+    text-align: center;
+    background-color: #ccc;
+    
+}
